@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0e649aea456f0fb9e835f1921be85b, type: 3}
+  m_Name: Moonlight_Mov1
+  m_EditorClassIdentifier: 
+  _pieceName: Moonlight Sonata
+  _composer: {fileID: 11400000, guid: f126f42ded47025eaaeea3c31316be07, type: 2}
+  _bpm: 155
+  _clip: {fileID: 8300000, guid: 8b472684270637bf6985ac4c97b8533a, type: 3}
+  _startOffset: 4.5
+  _requiredInstrument: {fileID: 11400000, guid: f7c81b4021535f91882b4ba2a6a1c9d0,
+    type: 2}
+  _damage: 1

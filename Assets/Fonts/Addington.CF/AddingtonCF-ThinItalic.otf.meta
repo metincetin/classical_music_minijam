@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 40f3d12fd065626a9bc95eb18e466a79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Addington CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10589bd1c7f34840498a566d5a6d6532, type: 3}
+  - {fileID: 12800000, guid: 001f3685224f2e27599b2ae85fdde396, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

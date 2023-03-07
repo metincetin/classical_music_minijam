@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 1a467ba067e13a7f1b7a2542c8128718
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Addington CF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0032af893efa143cbd46c439a1ccb41, type: 3}
+  - {fileID: 12800000, guid: 239a944ab8df745149f504efa3eda81b, type: 3}
+  - {fileID: 12800000, guid: 34ec612f2a07c47d795409c2edd56e9b, type: 3}
+  - {fileID: 12800000, guid: 40f3d12fd065626a9bc95eb18e466a79, type: 3}
+  - {fileID: 12800000, guid: 28074fded1433a2afa113589dd83c91c, type: 3}
+  - {fileID: 12800000, guid: 32ac29e273864bb458a1540ddc4ab0f4, type: 3}
+  - {fileID: 12800000, guid: a4659f6dfc7818dbbb49b47bd73fe18b, type: 3}
+  - {fileID: 12800000, guid: 261b00a8d2d78096d9271af694742ed9, type: 3}
+  - {fileID: 12800000, guid: 58cc2c0cff2556e3abf8483912bd07fd, type: 3}
+  - {fileID: 12800000, guid: 18009d7898469f4f9832702024f54c91, type: 3}
+  - {fileID: 12800000, guid: 10589bd1c7f34840498a566d5a6d6532, type: 3}
+  - {fileID: 12800000, guid: 8931779a465c52ec49b703f91cee3f29, type: 3}
+  - {fileID: 12800000, guid: e6fcb503db734efdf9e683e65965c0e2, type: 3}
+  - {fileID: 12800000, guid: 7457e6b8426d481479b58939bb09b415, type: 3}
+  - {fileID: 12800000, guid: f6f39dde0614315dd93105ab49c02f9c, type: 3}
+  - {fileID: 12800000, guid: e72f24d67552e086c9443184f9a52176, type: 3}
+  - {fileID: 12800000, guid: 778f6cdfd0e4bb940920da7e65bbe2c6, type: 3}
+  - {fileID: 12800000, guid: 29ce44ef288c755d084c2ec144b000f0, type: 3}
+  - {fileID: 12800000, guid: 70c885c8fb53a581996696f28f6cc4b8, type: 3}
+  - {fileID: 12800000, guid: 16f2f7fb529bb35ebbcbbc23a590b9ba, type: 3}
+  - {fileID: 12800000, guid: 001f3685224f2e27599b2ae85fdde396, type: 3}
+  - {fileID: 12800000, guid: 63e76e212588d2830902c7c599cfb23d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
